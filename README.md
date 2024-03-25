@@ -166,7 +166,7 @@ Add more visualization
 Predict on new data to check the accuracy of the model
 
 #### Outline of project
-Main notebook is below
+Main notebook is 
 -- Capstone_1.pynb
 
 
